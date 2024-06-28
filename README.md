@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Simeon Mwangi
 
 ## 🚀 About Me
-Highly passionate about Software Development & Programming in general. I am a Full Stack Web Developer with a strong focus on Frontend and Backend Development. For the past three years, I have worked with multiple clients on various project-based work. Currently, I am working with Greenbear IT as a Web Developer.
+Highly passionate about Software Development & Programming in general. I am a Full Stack Web Developer with a strong focus on Frontend and Backend Development, Also a Mobile Developer with ReactNative. For the past three years, I have worked with multiple clients on various project-based work. Currently, I am working with Greenbear IT as a Web Developer.
 
 <!--## 👨‍💻 Projects
 All of my projects are available at [fahimanzam.netlify.app](https://fahimanzam.netlify.app) -->
@@ -13,7 +13,7 @@ All of my projects are available at [fahimanzam.netlify.app](https://fahimanzam.
 - React-Native.js
 
 ## 📫 Want to talk about a project?
-Reach me at: dfahimanzam@gmail.com
+Reach me at: msimeon937@gmail.com
 
 ## 🛠️ My Skills
 - Python
