@@ -29,7 +29,7 @@ Reach me at: msimeon937@gmail.com
 - Sass
 
 <!--## 📈 GitHub Stats
-![Fahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahimanzamdip&show_icons=true&theme=radical)-->
+![Fahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=symoh-42&show_icons=true&theme=radical)-->
 
 ## ☕ Connect with Me
 [LinkedIn](https://www.linkedin.com/in/simeon-mwangi/)
