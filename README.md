@@ -7,8 +7,8 @@ Highly passionate about Software Development & Programming in general. I am a Fu
 All of my projects are available at [fahimanzam.netlify.app](https://fahimanzam.netlify.app) -->
 
 ## 💬 Ask Me About
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="50" height="50" />
+<p align="left">
+  <img src="https://www.python.org/static/img/python-logo@2x.png" width="50" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="50" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" width="50" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="50" height="50" />
