@@ -7,11 +7,15 @@ Highly passionate about Software Development & Programming in general. I am a Fu
 All of my projects are available at [fahimanzam.netlify.app](https://fahimanzam.netlify.app) -->
 
 ## 💬 Ask Me About
-- Python
-- Django
-- React.js
-- React-Native.js
-
+![Django](https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg)
+![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
+![MongoDB](https://upload.wikimedia.org/wikipedia/en/4/45/MongoDB-Logo.svg)
+![PostgreSQL](https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg)
+![HTML5](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg)
+![CSS3](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg)
+![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
+![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+![Git](https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg)
 ## 📫 Want to talk about a project?
 Reach me at: msimeon937@gmail.com
 
@@ -30,6 +34,11 @@ Reach me at: msimeon937@gmail.com
 
 ## 📈 GitHub Stats
 ![Fahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=symoh-42&show_icons=true&theme=radical)
+
+## 🤝 Connect with me:
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/fahim-anzam-dip) 
+[![Instagram](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)](https://www.instagram.com/your-profile)
+
 
 ## ☕ Connect with Me
 [LinkedIn](https://www.linkedin.com/in/simeon-mwangi/)
