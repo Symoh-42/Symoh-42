@@ -7,15 +7,18 @@ Highly passionate about Software Development & Programming in general. I am a Fu
 All of my projects are available at [fahimanzam.netlify.app](https://fahimanzam.netlify.app) -->
 
 ## 💬 Ask Me About
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" width="50" height="50" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" height="50" />
-<img src="https://upload.wikimedia.org/wikipedia/en/4/45/MongoDB-Logo.svg" width="50" height="50" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="50" height="50" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50" height="50" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50" height="50" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" height="50" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" height="50" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="50" height="50" />
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Vue.js_Logo_2.svg" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Alpine.js_logo.svg" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" width="50" height="50" />
+</p>
 
 ## 📫 Want to talk about a project?
 Reach me at: msimeon937@gmail.com
