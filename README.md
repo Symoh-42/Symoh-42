@@ -8,7 +8,7 @@ All of my projects are available at [fahimanzam.netlify.app](https://fahimanzam.
 
 ## 💬 Ask Me About
 <p align="left">
-  <img src="https://www.python.org/static/img/python-logo@2x.png" width="50" height="50" />
+  <img src="https://www.python.org/static/img/python-logo@2x.png" width="120" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="50" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" width="50" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="50" height="50" />
