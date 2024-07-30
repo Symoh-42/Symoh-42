@@ -36,12 +36,15 @@ Reach me at: msimeon937@gmail.com
 - Sass
 
 ## 📈 GitHub Stats
-![Fahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=symoh-42&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Symoh-42&layout=compact&theme=default" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Symoh-42&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
 
 ## 🤝 Connect with me:
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/fahim-anzam-dip) 
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/simeon-mwangi) 
 [![Instagram](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)](https://www.instagram.com/your-profile)
 
-
-## ☕ Connect with Me
-[LinkedIn](https://www.linkedin.com/in/simeon-mwangi/)
