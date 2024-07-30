@@ -1,50 +1,52 @@
-# Hi there 👋, I'm Simeon Mwangi
+<h1 align="left">Hi 👋, I'm Simeon Mwangi</h1>
 
-## 🚀 About Me
-Highly passionate about Software Development & Programming in general. I am a Full Stack Web Developer with a strong focus on Frontend and Backend Development, Also a Mobile Developer with ReactNative. For the past three years, I have worked with multiple clients on various project-based work. Currently, I am working with Greenbear IT as a Web Developer.
+<br>
 
-<!--## 👨‍💻 Projects
-All of my projects are available at [fahimanzam.netlify.app](https://fahimanzam.netlify.app) -->
+<h2>🚀 About Me</h2>
+<p align="left">Highly passionate about Software Development & Programming in general. I am a Full Stack Web Developer with strong focus on Backend Development. For the past three years I have worked with multiple clients in various project based work. Currently working with Greenbear as a Web Developer.</p>
 
-## 💬 Ask Me About
-<p align="left">
-  <img src="https://www.python.org/static/img/python-logo@2x.png" width="100" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" width="50" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="50" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" height="50" />
-  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAaVBMVEURMigAKx8AKBsKLyRmc256hYFAU0wAJhp0f3s6T0gAGADf4uH///+FkIwAAADm6OeBjIja3NsACwDFysjq7OsAEwAAIhSUnZrv8fD29/cAEACwtrTP0tEhPTTAxsRSY12co6AAHQxbamUrGWKdAAAAv0lEQVR4AWIYaACojS4SEIahIIDGE9Kpu8v974g7H3ZMvS8eLoQ83yhTWhurnN4R6gMgjGIgsQSmJwx+YJbHheNvYn0ZndBGUVS9kqzqtCnaI3b9MCj+YmOLcy4D0uIZuwDA1LfnAb0hnwGYY58U2hoIMuZJrBYgLb+g0AB4RTZ7VABNnRTkaK3DJUc8lnAvyCoztQDaWEUAFH/brrVbhe/8ugEYJaNibQPEHUWXYWPmjIwMm3ar2JfYteLszzkAujcN06GBllAAAAAASUVORK5CYII" width="50" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Alpine.js_logo.svg" width="50" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="50" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="50" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" width="50" height="50" />
+
+- 💬 Ask me about **Python, Django, Javascript, React.Js, ReactNative.Js**
+
+- 📫 Want to talk about project? Reach me at **msimeon937@gmail.com**
+
+<br>
+
+<h2 align="left">🛠️ My Skills</h2>
+<a href="https://www.php.net/" target="_blank"><img width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/vite.svg" alt="vite"></a>
+<a href="https://laravel.com/" target="_blank"><img width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" alt="Laravel"></a>
+<a href="https://www.mysql.com/" target="_blank"><img width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="Mysql"></a>
+<a href="https://www.postgresql.org/" target="_blank"><img width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="Postgre"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="Javascript"></a>
+<a href="https://vuejs.org/" target="_blank"><img width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Dark.svg" alt="Vue.js"></a>
+<a href="https://alpinejs.dev/" target="_blank"><img width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AlpineJS-Dark.svg" alt="AlpineJS"></a>
+<a href="https://getbootstrap.com/" target="_blank"><img width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="Bootstrap"></a>
+<a href="https://tailwindcss.com/" target="_blank"><img width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="TailwindCSS"></a>
+<a href="https://sass-lang.com/" target="_blank"><img width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" alt="Sass"></a>
+
+<br>
+<br>
+
+<h2 align="left">📈 Github Stats:</h3>
+<p>
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Symoh-42&show_icons=true&locale=en&layout=compact" alt="Symoh-42" />
+</p>
+<p>
+   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Symoh-42&show_icons=true&locale=en" alt="Symoh-42" />
 </p>
 
-## 📫 Want to talk about a project?
-Reach me at: msimeon937@gmail.com
+<br>
 
-## 🛠️ My Skills
-- Python
-- Django
-- MySQL
-- PostgreSQL
-- JavaScript
-- React.js
-- React-native.js
-- AlpineJS
-- Bootstrap
-- TailwindCSS
-- Sass
+<h2 align="left">☕ Connect with me:</h2>
+<div id="badges">
+   <a align="left" href="https://linkedin.com/in/linkedin.com/in/Symoh-42" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/Symoh-42" height="30" width="40" />
+   </a>
+   <a align="left" href="https://fb.com/https://www.facebook.com/fahim.anzam.dip" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/fahim.anzam.dip" height="30" width="40" />
+   </a>
+   <img align="right" alt="GitHub followers" src="https://img.shields.io/github/followers/Symoh-42">
+   <img align="right" src="https://komarev.com/ghpvc/?username=Symoh-42&label=Profile%20views&color=0e75b6&style=flat" alt="Symoh-42" />
+</div>
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Symoh-42&layout=compact&theme=default" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Symoh-42&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-
-## 🤝 Connect with me:
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/simeon-mwangi) 
-[![Instagram](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)](https://www.instagram.com/your-profile)
 
