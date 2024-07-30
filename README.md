@@ -13,16 +13,15 @@
 <br>
 
 <h2 align="left">🛠️ My Skills</h2>
-<a href="https://www.php.net/" target="_blank"><img width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/vite.svg" alt="vite"></a>
-<a href="https://laravel.com/" target="_blank"><img width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" alt="Laravel"></a>
 <a href="https://www.mysql.com/" target="_blank"><img width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="Mysql"></a>
 <a href="https://www.postgresql.org/" target="_blank"><img width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="Postgre"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="Javascript"></a>
-<a href="https://vuejs.org/" target="_blank"><img width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Dark.svg" alt="Vue.js"></a>
-<a href="https://alpinejs.dev/" target="_blank"><img width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AlpineJS-Dark.svg" alt="AlpineJS"></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="TypeScript.js"></a>
+<a href="https://react.dev/" target="_blank"><img width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React.js"></a>
 <a href="https://getbootstrap.com/" target="_blank"><img width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="Bootstrap"></a>
 <a href="https://tailwindcss.com/" target="_blank"><img width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="TailwindCSS"></a>
-<a href="https://sass-lang.com/" target="_blank"><img width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" alt="Sass"></a>
+<a href="https://www.python.org/" target="_blank"><img width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python"></a>
+<a href="https://www.djangoproject.com/" target="_blank"><img width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" alt="Django"></a>
 
 <br>
 <br>
