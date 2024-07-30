@@ -7,15 +7,16 @@ Highly passionate about Software Development & Programming in general. I am a Fu
 All of my projects are available at [fahimanzam.netlify.app](https://fahimanzam.netlify.app) -->
 
 ## 💬 Ask Me About
-![Django](https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg)
-![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
-![MongoDB](https://upload.wikimedia.org/wikipedia/en/4/45/MongoDB-Logo.svg)
-![PostgreSQL](https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg)
-![HTML5](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg)
-![CSS3](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg)
-![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
-![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
-![Git](https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" width="50" height="50" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" height="50" />
+<img src="https://upload.wikimedia.org/wikipedia/en/4/45/MongoDB-Logo.svg" width="50" height="50" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="50" height="50" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50" height="50" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50" height="50" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" height="50" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" height="50" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="50" height="50" />
+
 ## 📫 Want to talk about a project?
 Reach me at: msimeon937@gmail.com
 
